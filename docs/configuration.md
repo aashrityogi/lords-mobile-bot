@@ -102,7 +102,7 @@ Defines the privileged player.
 This player can execute administrator commands and bypass normal restrictions.
 
 ```cfg
-admin.name = halloweeks
+admin.name = rabertR5914B
 ```
 
 ---
@@ -112,9 +112,9 @@ admin.name = halloweeks
 Account information used for authentication.
 
 ```cfg
-account.igg_id = YOUR_IGG_ID
-account.device_uuid = YOUR_DEVICE_UUID
-account.access_key = YOUR_ACCESS_KEY
+account.igg_id = 1810034086
+account.device_uuid = e95fc0a05bf8a68e
+account.access_key = rock@123
 ```
 
 > **Warning:** Do not share your account credentials publicly.
